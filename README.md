@@ -2,7 +2,7 @@
 
 Bu proje, Android uygulamalarında kullanıcıdan onay almak için özel bir Alert Dialog oluşturmayı amaçlamaktadır. Kullanıcı etkileşimini artırmak için özelleştirilmiş bir tasarım ve kullanım kolaylığı sunar.
 
-## Özellikler
+## ⭐ Özellikler
 
 - Kullanıcıdan onay ve iptal işlemleri için özel bir dialog.
 - `ViewBinding` kullanarak daha temiz ve güvenilir bir kod yapısı.
@@ -28,4 +28,4 @@ https://drive.google.com/file/d/1ELwPODW1YXU8f2rhDXxUPKxa-vfBobJH/view?usp=shari
 
 1. **Projenizi Klonlayın**:
    ```bash
-   git clone https://github.com/kullaniciadi/custom-alert-dialog.git
+   git clone https://github.com/oktyGnc/CustomAlertDialog.git
